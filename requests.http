@@ -1,0 +1,8 @@
+### Get users
+GET http://localhost:3333/users
+
+### Save new user
+POST http://localhost:3333/users
+
+### Inexistent route
+POST http://localhost:3333/inexistent
